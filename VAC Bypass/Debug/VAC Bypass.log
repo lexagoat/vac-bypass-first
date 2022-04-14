@@ -1,0 +1,16 @@
+﻿D:\vs 2019 pro\ide\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1091,5): warning MSB8027: main.c adına sahip iki veya daha fazla dosya aynı konuma çıkış oluşturacaktır. Bu, hatalı oluşturma sonucuna neden olabilir. Dahil olan dosyalar: bypass\main.c, loader\main.c, service\main.c.
+  bypass.c
+  main.c
+  util.c
+E:\VAC Bypass\VAC Bypass\VAC Bypass\bypass\util.c(52,19): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+  main.c
+E:\VAC Bypass\VAC Bypass\VAC Bypass\service\main.c(13,69): warning C4047: 'işlev': 'DWORD', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+E:\VAC Bypass\VAC Bypass\VAC Bypass\service\main.c(13,65): warning C4024: 'CreateToolhelp32Snapshot': 2 biçimsel ve gerçek parametresi için farklı türler
+E:\VAC Bypass\VAC Bypass\VAC Bypass\service\main.c(24,13): warning C4047: 'return': 'unsigned int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+E:\VAC Bypass\VAC Bypass\VAC Bypass\service\main.c(74,156): warning C4047: 'işlev': 'DWORD', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+E:\VAC Bypass\VAC Bypass\VAC Bypass\service\main.c(74,152): warning C4024: 'CreateRemoteThread': 6 biçimsel ve gerçek parametresi için farklı türler
+E:\VAC Bypass\VAC Bypass\VAC Bypass\service\main.c(56,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VAC Bypass\VAC Bypass\VAC Bypass\service\main.c(67,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VAC Bypass\VAC Bypass\VAC Bypass\service\main.c(76,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Kod Üretiliyor...
